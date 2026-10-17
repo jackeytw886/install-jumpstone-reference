@@ -1,0 +1,36 @@
+{
+  "project_id": "P026",
+  "github_repository_id": 1240264441,
+  "title_en": "Jumpstone Reference",
+  "title_zh": "跳石陣舊占位倉庫",
+  "category": "install",
+  "topics": [
+    "reference",
+    "placeholder"
+  ],
+  "repository_full_name": "jackeytw886/install-jumpstone-reference",
+  "repository_url": "https://github.com/jackeytw886/install-jumpstone-reference",
+  "default_branch": "main",
+  "visibility": "public",
+  "aliases": [
+    "Jump-again"
+  ],
+  "suggested_name": "install-jumpstone-reference",
+  "repository_status": "connected",
+  "content_state": "reference-only",
+  "lifecycle": "unknown",
+  "pages_enabled": false,
+  "deployment_url": null,
+  "event_year": null,
+  "entry_paths": [],
+  "related_project_ids": [
+    "P009",
+    "P010"
+  ],
+  "handoff_path": "HANDOFF.md",
+  "verification_source": "github-tree-and-readme",
+  "verified_at": "2026-10-17T20:41:56+08:00",
+  "source_baseline_sha": "9284686036f8475178469eaeddfcd5459f8ad3bc",
+  "last_runtime_verified_sha": null,
+  "naming_status": "renamed"
+}
